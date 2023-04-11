@@ -1,0 +1,15 @@
+global using System.Threading.Tasks;
+global using System.IO;
+global using Avalonia.Media.Imaging;
+global using Avalonia;
+global using Avalonia.Controls.ApplicationLifetimes;
+global using Avalonia.Markup.Xaml;
+global using System.Net.Http;
+global using XkcdViewer.ViewModels;
+global using XkcdViewer.Views;
+global using ReactiveUI;
+global using System.Collections.ObjectModel;
+global using XkcdViewer.ViewModels.Models;
+global using System.Net.Http.Json;
+global using Avalonia.Controls;
+global using Avalonia.Interactivity;
