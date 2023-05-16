@@ -6,3 +6,4 @@ A simple viewer for https://xkcd.com built using a number of different cross-pla
 * [Flutter](https://flutter.dev/)
 * [Avalonia](https://www.avaloniaui.net/)
 * [React Native](https://reactnative.dev/)
+* [.NET Maui](https://dotnet.microsoft.com/en-us/apps/maui)
