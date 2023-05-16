@@ -1,0 +1,9 @@
+global using Microsoft.Extensions.Logging;
+global using XkcdViewer.ViewModels;
+global using System.Collections.ObjectModel;
+global using XkcdViewer.Model;
+global using System.Net.Http.Json;
+global using XkcdViewer.Services;
+global using CommunityToolkit.Mvvm.Input;
+global using System.Windows.Input;
+global using CommunityToolkit.Mvvm.ComponentModel;
