@@ -5,15 +5,16 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:views="clr-namespace:XkcdViewer.Views">
 
-    <Grid Margin="20">
+    <Grid Margin="20" BackgroundColor="Black">
 
         <CollectionView
+            BackgroundColor="Black"
             ItemsSource="{Binding Comics}"
             RemainingItemsThreshold="4"
             RemainingItemsThresholdReachedCommand="{Binding LoadMoreCommand}">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <views:XkcdView Comic="{Binding .}" />
+                    <views:XkcdView BackgroundColor="Black" Comic="{Binding .}" />
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>

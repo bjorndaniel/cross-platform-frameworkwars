@@ -4,14 +4,15 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <Border
-        Background="Black"
+        BackgroundColor="Black"
         Stroke="#3e4e4e"
         StrokeThickness="3">
         <Border.StrokeShape>
             <RoundRectangle CornerRadius="5" />
         </Border.StrokeShape>
-        <Grid Padding="5">
+        <Grid Padding="5" BackgroundColor="Black">
             <VerticalStackLayout
+                BackgroundColor="Black"
                 MaximumHeightRequest="500"
                 MaximumWidthRequest="300"
                 MinimumHeightRequest="500"
