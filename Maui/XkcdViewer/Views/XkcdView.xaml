@@ -3,7 +3,10 @@
     x:Class="XkcdViewer.Views.XkcdView"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
-    <Border Stroke="#3e4e4e" StrokeThickness="3">
+    <Border
+        Background="Black"
+        Stroke="#3e4e4e"
+        StrokeThickness="3">
         <Border.StrokeShape>
             <RoundRectangle CornerRadius="5" />
         </Border.StrokeShape>
