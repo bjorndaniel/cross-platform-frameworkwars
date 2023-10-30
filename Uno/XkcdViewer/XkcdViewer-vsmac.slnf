@@ -1,0 +1,15 @@
+{
+  "solution": {
+    "path": "XkcdViewer.sln",
+    "projects": [
+      "XkcdViewer.Droid\\XkcdViewer.Droid.csproj",
+      "XkcdViewer.Shared\\XkcdViewer.Shared.shproj",
+      "XkcdViewer.Skia.Gtk\\XkcdViewer.Skia.Gtk.csproj",
+      "XkcdViewer.Skia.Linux.FrameBuffer\\XkcdViewer.Skia.Linux.FrameBuffer.csproj",
+      "XkcdViewer.UWP\\XkcdViewer.Uwp.csproj",
+      "XkcdViewer.Wasm\\XkcdViewer.Wasm.csproj",
+      "XkcdViewer.iOS\\XkcdViewer.iOS.csproj",
+      "XkcdViewer.macOS\\XkcdViewer.macOS.csproj"
+    ]
+  }
+}

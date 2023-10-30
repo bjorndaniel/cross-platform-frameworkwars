@@ -1,0 +1,3 @@
+﻿namespace XkcdViewer.Skia.Gtk
+{
+}
