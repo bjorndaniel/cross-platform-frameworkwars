@@ -7,3 +7,4 @@ A simple viewer for https://xkcd.com built using a number of different cross-pla
 * [Avalonia](https://www.avaloniaui.net/)
 * [React Native](https://reactnative.dev/)
 * [.NET Maui](https://dotnet.microsoft.com/en-us/apps/maui)
+* [Uno Platform](https://platform.uno/)
